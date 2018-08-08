@@ -1,0 +1,21 @@
+{
+  "name": "onobj",
+  "version": "1.0.0",
+  "description": "Helper function to map/reduce/filter objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "javascricpt",
+    "object",
+    "reduce",
+    "map",
+    "filter"
+  ],
+  "author": "elcoosp <elcoosp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
