@@ -11,6 +11,7 @@ Helper function to map/reduce/filter objects.
     - [Contributing](#contributing)
 
 ## Usage
+The onObj function call proxifyTwoLevel with Object as an argument, so you can use this last function with other primitive data types (Array, Date, ...).
 
 ```js
 onObj.keys.map(k => k.repeat(2))({ a: 0, b: 1 })
